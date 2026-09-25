@@ -60,3 +60,23 @@ The project includes:
 ## Conclusion
 
 The project demonstrates how Python-based data visualization can transform a large COVID-19 dataset into an understandable visual narrative for non-technical audiences.
+
+## Visualizations
+
+### Global Confirmed COVID-19 Cases Over Time
+![Global Cases](visualizations/visualization_1_global_cases.png)
+
+### Top 10 Countries by Confirmed Cases
+![Top Countries](visualizations/visualization_2_top_countries.png)
+
+### Global COVID-19 Deaths Over Time
+![Deaths](visualizations/visualization_3_deaths.png)
+
+### Confirmed Cases vs Deaths
+![Cases vs Deaths](visualizations/visualization_4_cases_vs_deaths.png)
+
+### Correlation Heatmap
+![Correlation](visualizations/visualization_5_correlation_heatmap.png)
+
+### Distribution and Outlier Analysis
+![Box Plot](visualizations/visualization_6_boxplot.png)
